@@ -15,7 +15,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="shop" options="-parameters" />
+      <module name="shop" options="-parameters --add-modules java.compiler" />
     </option>
   </component>
 </project>
