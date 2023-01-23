@@ -1,7 +1,6 @@
 package com.example.shop.controller;
 
-import com.example.shop.Dto.ItemDto;
-import lombok.Getter;
+import com.example.shop.dto.ItemDto;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;

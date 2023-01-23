@@ -1,10 +1,8 @@
 package com.example.shop.entity;
 
 
-import com.example.shop.Dto.MemberFormDto;
+import com.example.shop.dto.MemberFormDto;
 import com.example.shop.constant.Role;
-import groovyjarjarantlr4.v4.codegen.model.SrcOp;
-import lombok.Generated;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;

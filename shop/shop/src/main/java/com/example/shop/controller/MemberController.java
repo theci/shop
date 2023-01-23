@@ -1,6 +1,6 @@
 package com.example.shop.controller;
 
-import com.example.shop.Dto.MemberFormDto;
+import com.example.shop.dto.MemberFormDto;
 import com.example.shop.entity.Member;
 import com.example.shop.service.MemberService;
 import lombok.RequiredArgsConstructor;
